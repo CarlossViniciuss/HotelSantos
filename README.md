@@ -1,70 +1,86 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Hotel Santos</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p> 
 
-In the project directory, you can run:
+<p align="center">
+  
+  <img alt="License" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="License" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
-### `npm start`
+</p></br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img width="50%" alt="mockup" src="img/img1.gif" alt="Mockup">
+</p></br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ⚙ Tecnologias
 
-### `npm test`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [NodeJS](https://nodejs.org/en/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- 
+</br>
 
-### `npm run build`
+## 💻 Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A Stay With Santos Hotel
+More than a design-forward hotel, HotelSantos is a microcosm of the beach, abuzz with creativity and innovation. Inspired in  and  beaches of Baixada Santos neighborhood we call home, HotelSantos brings the energy of the city indoors. Each room, restaurant, and outdoor hangout curated to reflect the spirit of the city we love. Designed for you and directed by you, this is a place to customize your own stay, rub shoulders with the city’s creative class, and unwind in style.</br></br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⏩ Processo de criação
+As a way of good practices and for system organization, it was separated into several folders so that they could be distributed according to their functions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img width="50%" alt="mockup" src="img/img2.png" alt="Mockup">
+</p></br>
 
-### `npm run eject`
+1.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</br></br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## ☑ To do list
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [x] 
+- [x] 
+- [x]  
+- [x]   
+- [ ] 
+- [ ] 
+</br></br>
 
-## Learn More
+## 🌌 Como executar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Clone o repositório
+- De um npm install
+- Inicie o servidor local atraves do "npm start"
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Agora você pode acessar [`localhost`](http://localhost:3000) do seu navegador.
+Ou acesse nosso sistema atravez desse link -> 
+</br></br>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📄 Licença
 
-### Analyzing the Bundle Size
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+</br></br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Autor
 
-### Making a Progressive Web App
+ <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/69722024?v=4" width="100px" style="border-radius:50%"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ <sub><b>Carlos Vinicius</b></sub><a href="">🚀</a>
+<br />
 
-### Advanced Configuration
+Feito com ❤️ por Carlos Vinicius 👋🏽 Entre em contato!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-vinicius-95745a1a4)](https://www.linkedin.com/in/carlos-vinicius-95745a1a4) 
+[![Gmail Badge](https://img.shields.io/badge/-carlosvinicius.index@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvinicius.index@gmail.com)](mailto:carlosvinicius.index@gmail.com)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
