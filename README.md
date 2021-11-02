@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="/home/carlins/HotelSantos/READMEimg/rRFaq.jpg" alt="exemplo imagem">
 
 > Sistema Web Hoteleiro, desenvolvido inicialmente como projeto de finalização da faculdade UNIP curso de Analise e desenvolvimento de sistemas.
 ### Ajustes e melhorias
