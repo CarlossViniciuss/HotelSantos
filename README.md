@@ -83,17 +83,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto do "/><br>
+        <img src="https://avatars.githubusercontent.com/u/91293456?v=4" width="100px;" alt="Foto do "/><br>
         <sub>
-          <b>-</b>
+          <b>Murilo Cabral</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto do "/><br>
+        <img src="https://avatars.githubusercontent.com/u/66499233?v=4" width="100px;" alt="Foto do "/><br>
         <sub>
-          <b>-</b>
+          <b>Vinicius Galvão</b>
         </sub>
       </a>
     </td>
