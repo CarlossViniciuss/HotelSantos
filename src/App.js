@@ -27,9 +27,9 @@ function App() {
               <LoginPage />
         </Route>
 
-        <Route exact path="/signup">
+        <Route path="/signup">
               <Signup />
-          </Route> 
+        </Route> 
 
           {/* <Route path="/search" component={SearchPage} /> */}
           <ProtectedRoute path="/search" component={SearchPage} />
