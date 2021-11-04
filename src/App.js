@@ -31,7 +31,8 @@ function App() {
               <Signup />
           </Route> 
 
-          
+          {/* <Route path="/search" component={SearchPage} /> */}
+          <ProtectedRoute path="/search" component={SearchPage} />
 
           <Route path="/Contato">
             <Contato />
