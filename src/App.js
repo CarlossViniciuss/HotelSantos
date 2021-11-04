@@ -27,11 +27,11 @@ function App() {
               <LoginPage />
         </Route>
 
-        <Route path="/signup">
+        <Route exact path="/signup">
               <Signup />
         </Route> 
 
-          {/* <Route path="/search" component={SearchPage} /> */}
+          {/* <Route path="/search" component={SearchPage} /> 
           <ProtectedRoute path="/search" component={SearchPage} />
 
           <Route path="/Contato">
@@ -41,7 +41,7 @@ function App() {
           <Route path="/home">
             <Home />
           </Route>
-
+*/}
         </Switch>
         
         <Footer />
