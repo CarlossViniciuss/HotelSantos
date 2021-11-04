@@ -23,20 +23,19 @@ function App() {
 
         <Switch>
 
+        <Route exact path="/">
+              <LoginPage />
+        </Route>
+
         <Route exact path="/signup">
               <Signup />
           </Route> 
-
 
           {/* <Route path="/search" component={SearchPage} /> */}
           <ProtectedRoute path="/search" component={SearchPage} />
 
           <Route path="/Contato">
             <Contato />
-          </Route>
-
-          <Route exact path="/">
-              <LoginPage />
           </Route>
 
           <Route path="/home">
