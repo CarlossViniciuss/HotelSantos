@@ -22,8 +22,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Servidor na nuvem
 - [ ] Upar o sistema na Heroku
 
-### Estruturação das pastas
-
 
 ## 💻 Pré-requisitos
 
