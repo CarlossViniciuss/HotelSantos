@@ -55,7 +55,7 @@ npm start
 
 Lembrando que ao dar npm start rodara apontado ao servidor, para visualizar você deve ligar o servidor backend que esta em outro repositorio -> https://github.com/trvicius/BackEnd
 
-Porem o site se encontra no ar, clique aqui -> https://hotelsatosweb.herokuapp.com/
+Porem o site se encontra no ar, clique aqui -> https://hotelsantosweb.herokuapp.com/
 
 ## 📫 Contribuindo para o projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
